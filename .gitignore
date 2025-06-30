@@ -1,0 +1,13 @@
+# Virtual environments and scripts
+ml/
+venv/
+Scripts/
+__pycache__/
+*.exe
+*.pkl
+*.pyc
+
+# IDE and OS files
+.DS_Store
+*.log
+.env
